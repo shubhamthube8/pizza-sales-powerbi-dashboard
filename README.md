@@ -4,7 +4,7 @@ An interactive Power BI dashboard that turns raw pizza sales data into clear, ac
 
 ## 📸 Dashboard Preview
 
-![pizza sales dashboard](images/dashboard-preview.png)
+![Pizza Sales Dashboard](pizza-sales-dashboard.png)
 
 ## 🎯 Project Objective
 
